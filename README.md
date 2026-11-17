@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Flukso provides rock‑solid, non‑intrusive monitoring of electricity, water and gas consumption, as well as solar panel generation. Their Fluksometer hardware and sensor probes enable multi‑utility data collection with offline capability and full data access through a public API. Based in Heverlee, Belgium, Flukso offers detailed documentation, a demo account, and a shop for devices, targeting energy‑aware households and developers.
+Flukso provides rock-solid, non‑intrusive monitoring solutions for residential and commercial utilities. Their platform offers real‑time data access through an API, covering electricity, water, gas consumption and solar generation. Users can purchase Fluksometer sensors and integrate the data into custom applications, benefiting from offline capability, health checks, and multi‑utility support across the EU.
 
-**Areas:** Energy · IoT · Monitoring · OpenAPI · Belgium
+**Areas:** Company · Monitoring · IoT · Utilities · API
 
 ## Flukso on APIs.io
 
 Everything profiled for Flukso is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flukso/](https://apis.io/providers/flukso/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [Flukso API](https://apis.io/apis/flukso/flukso-api/) — Public API providing access to electricity, water, gas consumption and solar generation data.
 
 ### Published properties
 
@@ -91,25 +87,26 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://flukso.net/)
-- [Documentation](https://flukso.net/files/docs/en/index.html)
-- [Getting started](https://flukso.net/files/docs/en/quickstart.html)
-- [API reference](https://flukso.net/files/docs/en/api.html)
+- [Documentation](https://flukso.net/about)
+- [API reference](https://flukso.net/dash)
+- [Pricing](https://flukso.net/shop)
 - [Sign up](https://flukso.net/user/register)
+- [Support](https://flukso.net/forum)
 - [Blog](https://flukso.net/blog)
 - [GitHub](https://github.com/flukso)
 
 ## API Evangelist rating
 
-**Kin Score 12.3** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 13.4** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 53.6 |
+| Discoverability | 44.6 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 4.8 |
-| Developer ergonomics | 31.0 |
-| Access clarity | 10.6 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 23.7 |
 
 **Agent readiness 3.1** — human-only
 
@@ -138,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Energy & Utilities
+**Regulatory alignment 4.9** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/flukso/](https://apis.io/providers/flukso/).
 
